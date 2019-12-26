@@ -1,0 +1,8 @@
+var prediction = {
+"SENSEX":1,
+"RELIANCE.NSE":-1,
+"NIFTY":1,
+"INFY.NSE":1,
+"MSFT":-1,
+"AAPL":1
+};
